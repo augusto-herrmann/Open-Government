@@ -45,6 +45,7 @@ I've started a list of resources, here, to which I'd love additions.
 7. [Firms requiring geospatial data grow 15% more quickly per annum in countries where that data is free (via OKF)](http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data)
 8. [Deloitte - opening data increased re-use by 10x-100x (via OKF)](http://www.epsiplatform.eu/content/popsis-assessment-psi-charging-policies)
 9. [Open Data Use Cases and Personas](http://public.webfoundation.org/2013/06/ODD-UCR-Final.pdf)
+10. [The Economic Impact of Open Data: what do we already know?](https://medium.com/@ODIHQ/the-economic-impact-of-open-data-what-do-we-already-know-1a119c1958a0#.w5jst6ko4) by the Open Data Institute
 
 ###On Democratic Engagement
 
